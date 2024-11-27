@@ -43,3 +43,27 @@ A Logistic Regression project implemented in Python using the Breast Cancer data
 ## Results
 
 - **Confusion Matrix**:
+
+- **Accuracy Score**: 98.54%
+- **Cross-Validation Accuracy**: 96.16% (±2.51%)
+
+---
+
+## Requirements
+
+- Python 3.x
+- Libraries:
+- `numpy`
+- `pandas`
+- `matplotlib`
+- `sklearn`
+
+---
+
+## Usage
+
+1. Clone the repository:
+ ```bash
+ git clone https://github.com/your-username/Logistic-Regression-Project.git
+ cd Logistic-Regression-Project
+ 
